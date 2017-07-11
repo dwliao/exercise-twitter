@@ -16,6 +16,12 @@ gem 'bootstrap-sass'
 
 gem 'ffaker'
 
+gem 'carrierwave'
+
+gem 'mini_magick'
+
+gem 'fog'
+
 gem 'will_paginate'
 
 gem 'bootstrap-will_paginate'
